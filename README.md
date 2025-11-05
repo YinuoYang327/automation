@@ -1,16 +1,8 @@
-# Sequence Pair Deep Learning Demo
+# Drug-Target Interaction Prediction
 
 This repository contains a **generic deep learning pipeline** for
-paired biological sequences (e.g., ligand–protein, drug–target).
-It is adapted from a Jupyter notebook used in a previous research project,
-but it uses **synthetic data only** and contains **no proprietary code or datasets**.
+paired drug–target.
 
-The goal is to illustrate my typical coding style for:
-
-- Model architecture definition (PyTorch)
-- Data pipeline & `Dataset`/`DataLoader` usage
-- Training / evaluation loops with basic metrics
-- Modular, readable code organization
 
 ## Files
 
